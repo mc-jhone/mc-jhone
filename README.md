@@ -30,8 +30,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### ✨ Animasi SVG
-<img src="https://raw.githubusercontent.com/mc-jhone/svg/main/assets/moving-text.svg" alt="Animasi Teks" width="400">
-
+<img src="https://raw.githubusercontent.com/mc-jhone/idk.git
 ---
 
 ### 🚀 Widget Dinamis Lainnya
