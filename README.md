@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### ✨ Animasi SVG
-<img src="https://raw.githubusercontent.com/mc-jhone/idk.git
+https://raw.githubusercontent.com/mc-jhone/idk.git
 ---
 
 ### 🚀 Widget Dinamis Lainnya
