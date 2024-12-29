@@ -17,25 +17,25 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📊 Statistik GitHub Saya
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-jhone&show_icons=true&theme=radical)
 
 ### 🔥 Bahasa Pemrograman Teratas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-jhone&layout=compact&theme=radical)
 
 ---
 
 ### 🕒 Aktivitas Coding Saya
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mc-jhone)
 
 ---
 
 ### ✨ Animasi SVG
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/moving-text.svg" alt="Animasi Teks" width="400">
+<img src="https://raw.githubusercontent.com/mc-jhone/YOUR_REPO/main/assets/moving-text.svg" alt="Animasi Teks" width="400">
 
 ---
 
 ### 🚀 Widget Dinamis Lainnya
-![Contributions](https://github-contributor-stats.vercel.app/api?username=USERNAME)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=mc-jhone)
 
 ---
 
