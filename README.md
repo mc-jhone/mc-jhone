@@ -29,30 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### ✨ Animasi SVG
-https://raw.githubusercontent.com/mc-jhone/idk.git
----
 
 ### 🚀 Widget Dinamis Lainnya
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=mc-jhone)
 
 ---
 
-### Cara Membuat Animasi CSS
-Jika ingin menggunakan animasi di GitHub Pages, salin kode berikut ke file HTML di repositorimu.
-
-**index.html**
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Dashboard</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Welcome to My Dashboard! 🎉</h1>
-    <div class="animated-text">GitHub is awesome!</div>
-</body>
-</html>
