@@ -35,3 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<div align="center">
+  <img src="path/to/animated-text.svg" alt="Animasi Teks">
+</div>
+
+
